@@ -24,7 +24,7 @@
         { transform: 'translateY(0)' },
       ],
       {
-        duration: 300,
+        duration: 250,
         easing: 'cubic-bezier(0.18, 0.89, 0.32, 1.28)',
       },
     );
